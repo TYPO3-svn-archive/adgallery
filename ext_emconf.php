@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "adgallery".
 #
-# Auto generated 22-03-2011 13:46
+# Auto generated 15-08-2011 12:52
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -29,12 +29,12 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => '',
-	'version' => '1.0.2',
+	'version' => '1.0.3',
 	'constraints' => array(
 		'depends' => array(
 			't3devapi' => '',
 			'php' => '5.0.0-0.0.0',
-			'typo3' => '4.3.0-0.0.0',
+			'typo3' => '4.3.0-4.6.99',
 		),
 		'conflicts' => array(
 		),
